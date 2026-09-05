@@ -1,6 +1,6 @@
 # PyTorch Playbook
 
-A comprehensive collection of Jupyter notebooks for learning and exploring deep learning concepts with PyTorch. This playbook covers everything from fundamental PyTorch basics to advanced neural network architectures including transformers, autoencoders, and energy-based models.
+A collection of Jupyter notebooks for learning and exploring deep learning concepts with PyTorch. This playbook covers everything from fundamental PyTorch basics to advanced neural network architectures including transformers, autoencoders, and energy-based models with toy models and simple examples.
 
 ## 📚 Notebook Guide
 
@@ -66,14 +66,6 @@ jupyter notebook
 
 4. Open any notebook and start learning!
 
-## 📖 How to Use
-
-- **Beginners**: Start with `1_Pytorch_basics.ipynb` and work through the notebooks sequentially.
-- **CNN Practitioners**: Jump to `4_CNN Foundations..ipynb` and explore the CNN architectures.
-- **NLP/Sequence Enthusiasts**: Focus on `6_Attention and Transformer Foundations.ipynb` and subsequent transformer notebooks.
-- **Advanced Learners**: Explore energy-based models and latent dynamics in notebooks 8-11.
-
-Each notebook contains explanatory text, code examples, and visualizations to help you understand the concepts.
 
 ## 🎯 Topics Covered
 
@@ -85,31 +77,6 @@ Each notebook contains explanatory text, code examples, and visualizations to he
 - **Generative Models**: Energy-based models and autoencoders
 - **Advanced Topics**: Latent dynamics and predictive sequence models
 
-## 💡 Learning Path Recommendations
-
-**Path 1: Computer Vision**
-1_Pytorch_basics → 2_ActivationFunctions → 3_Optimization → 4_CNN Foundations → 5_Inception, ResNet, DenseNet → 9_Autoencoders
-
-**Path 2: Natural Language Processing & Sequences**
-1_Pytorch_basics → 2_ActivationFunctions → 3_Optimization → 10_GRUFoundations → 6_Attention → 7_Transformer Multi-Head → 11_Latent Dynamics
-
-**Path 3: Complete Journey**
-Follow the numerical order (1-11) for a comprehensive understanding of deep learning with PyTorch.
-
-## 📝 Notes
-
-- All notebooks include executable code cells with examples
-- Visualizations help illustrate key concepts
-- Exercises and experiments are provided to reinforce learning
-- Feel free to modify and experiment with the code
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome! Feel free to:
-- Report issues or typos
-- Suggest new topics
-- Improve existing explanations
-- Add more examples and exercises
 
 ## 📄 License
 
